@@ -1,6 +1,6 @@
-# NYC Citibicke Analysis
+# NYC Citibike Analysis
 ## Overview of the analysis: 
-The goal of this analysis is to visualize the bike rides of NYC Citibike:
+The goal of this analysis is to visualize the bike rides of [NYC Citibike](https://citibikenyc.com/):
 - which locations get the most traffic for pick-up and drop-off
 - which days of the week do most of the rides take place? which hours of the day?
 - who rides the most?
